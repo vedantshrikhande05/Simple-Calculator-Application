@@ -58,4 +58,3 @@ It features a **glassmorphism design, gradient background, smooth hover effects,
 
 ---
 
-👉 Do you want me to make this **README.md in a decorated GitHub style with emojis, badges, and preview screenshots** also?
